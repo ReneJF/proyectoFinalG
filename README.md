@@ -7,7 +7,7 @@
 ### *Jeferson Tutalcha*
 ### *Juan Manuel Quiceno*
 
-[GitHub](https://github.com/ReneJF/proyectoFinalGrupo7.git
+[GitHub](https://github.com/ReneJF/proyectoFinalGrupo7.git)
 
 [Video Presentación](https://www.youtube.com/watch?v=lrAAUumQCYk&ab_channel=JefersonTutalcha)
 
